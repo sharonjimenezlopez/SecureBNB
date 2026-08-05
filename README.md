@@ -35,8 +35,8 @@ This was a team project. I built the **admin panel**, including the interface an
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/securebnb.git
-cd securebnb
+git clone [https://github.com/your-username/securebnb.git](https://github.com/sharonjimenezlopez/SecureBNB.git)
+cd SecureBNB
 
 # Install dependencies
 npm install
